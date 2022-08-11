@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://brokenbluesrepairs.com/'
 languageCode = 'en-us'
 title = 'Broken Blues Repairs'
 theme = 'roxo'
@@ -7,28 +7,30 @@ theme = 'roxo'
 [menu]
   # Navbar Menus
   [[menu.nav]]
-    name    = "Home"
-    url     = ""
-    weight  = 1
-  [[menu.nav]]
     name    = "About"
     url     = "about"
+    weight  = 1
+  [[menu.nav]]
+    name    = "How It Works"
+    url     = "how-it-works"
     weight  = 2
   [[menu.nav]]
-    name    = "Portfolio"
-    url     = "portfolio"
+    name    = "Pricing"
+    url     = "blog"
     weight  = 3
   [[menu.nav]]
-    name    = "Blog"
-    url     = "blog"
+    name    = "Past Repairs"
+    url     = "portfolio"
     weight  = 4
   [[menu.nav]]
-    name    = "Get in touch"
+    name    = "Contact"
     url     = "contact"
     weight  = 5
 
 [params]
-# Meta data
+  logo = "images/logo.png"
+  dateFormat = "14 FEB 2022"
+  # Meta data
   description = "Local repair shop | small appliances and consumer electronics"
   author = "Peter Vieira"
 
@@ -37,24 +39,30 @@ theme = 'roxo'
     placeholder_first_name        = "First Name"
     placeholder_last_name         = "Last Name"
     placeholder_email             = "Email"
-    placeholder_project_type      = "Project Type"
-    placeholder_about_the_project = "About the Project"
+    placeholder_contact_type      = "Contact Type"
+    placeholder_about_the_project = "What's up?"
     send_message                  = "Send Message"
 
-    [[params.contactForm.projectType]]
+    [[params.contactForm.contactType]]
       value = "re"
       title  = "Repair"
-    [[params.contactForm.projectType]]
+    [[params.contactForm.contactType]]
       value = "di"
       title  = "Diagnosis"
-    [[params.contactForm.projectType]]
+    [[params.contactForm.contactType]]
       value = "do"
-      title  = "Donation"
+      title  = "Donations"
+    [[params.contactForm.contactType]]
+      value = "qu"
+      title  = "Question"
+    [[params.contactForm.contactType]]
+      value = "co"
+      title  = "Comment"
 
   # Navbar Action Button
   [params.navAction]
     status  = true
-    name    = "Get in touch"
+    name    = "Contact"
     url     = "contact"
 
   # Banner Section
@@ -64,14 +72,14 @@ theme = 'roxo'
     heading               = "A Local Repair Shop That Focuses on Repairs, Not Profits"
     tagline               = "REDUCING WASTE, ONE BROKEN ITEM AT A TIME"
     primary_button        = "How it works"
-    primary_button_url    = "portfolio"
-    secondary_button      = "Connect with Us"
+    primary_button_url    = "how-it-works"
+    secondary_button      = "Connect With Us"
     secondary_button_url  = "contact"
 
   [params.portfolio]
     enable    = true
-    title     = "OUR RECENT WORKS"
-    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    title     = "MY RECENT REPAIRS"
+    subtitle  = "Helping people toss less, spend less, and learn more."
 
   [params.call_to_action]
     enable              = true
@@ -87,17 +95,17 @@ theme = 'roxo'
     [params.footer.contactInfo]
       title   = "Contact Info"
       address = "713 Elmwood St.<br>Tucson, AZ 85755"
-      phone   = "409-896-1444"
+      phone   = "213-204-0067"
       email   = "info@brokenbluesrepairs.com"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"
         [[params.footer.sitemap.link]]
-          name = "About Company"
+          name = "About"
           url  = "about"
         [[params.footer.sitemap.link]]
-          name = "Projects"
-          url  = "portfolio"
+          name = "Repairs"
+          url  = "repairs"
         [[params.footer.sitemap.link]]
           name = "Blog"
           url  = "blog"
@@ -108,18 +116,18 @@ theme = 'roxo'
       [params.footer.social]
         title   = "Social Media"
         [[params.footer.social.link]]
-          name = "Medium"
+          name = "Nextdoor"
           url  = "#"
         [[params.footer.social.link]]
-          name = "Behance"
+          name = "LinkedIn"
           url  = "#"
         [[params.footer.social.link]]
-          name = "Dribbble"
+          name = "Facebook"
           url  = "#"
         [[params.footer.social.link]]
           name = "Instagram"
           url  = "#"
       # Footer Service
       [params.footer.service]
-        title       = "We help brands:"
-        description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+        title       = "We help you:"
+        description = "get rid of those broken blues"
