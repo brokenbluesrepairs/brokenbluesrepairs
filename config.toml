@@ -2,6 +2,7 @@ baseURL = 'https://brokenbluesrepairs.com/'
 languageCode = 'en-us'
 title = 'Broken Blues Repairs'
 theme = 'roxo'
+summarylength = 25
 
 # Site Menus
 [menu]
@@ -27,12 +28,17 @@ theme = 'roxo'
     url     = "contact"
     weight  = 5
 
+# Site Params
 [params]
   logo = "images/logo.png"
   dateFormat = "14 FEB 2022"
   # Meta data
   description = "Local repair shop | small appliances and consumer electronics"
   author = "Peter Vieira"
+  # We're using formspree.io for form handling, paste your formspree url below
+  formspreeFormUrl  = "https://formspree.io/myykjpje"
+  # Google Analitycs
+  googleAnalitycsID = "Your ID"
 
   # Contact Form
   [params.contactForm]
@@ -47,8 +53,8 @@ theme = 'roxo'
       value = "re"
       title  = "Repair"
     [[params.contactForm.contactType]]
-      value = "di"
-      title  = "Diagnosis"
+      value = "pr"
+      title  = "Past Repair"
     [[params.contactForm.contactType]]
       value = "do"
       title  = "Donations"
@@ -120,7 +126,7 @@ theme = 'roxo'
           url  = "#"
         [[params.footer.social.link]]
           name = "LinkedIn"
-          url  = "#"
+          url  = "https://www.linkedin.com/in/peter-vieira-57667624"
         [[params.footer.social.link]]
           name = "Facebook"
           url  = "#"
