@@ -75,7 +75,7 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "A Local Repair Shop That Focuses on Repairs, Not Profits"
+    heading               = "A Local Tucson Repair Shop That Focuses on Repairs, Not Profits"
     tagline               = "REDUCING WASTE, ONE BROKEN ITEM AT A TIME"
     primary_button        = "How it works"
     primary_button_url    = "how-it-works"
