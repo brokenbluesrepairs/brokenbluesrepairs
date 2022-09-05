@@ -1,10 +1,10 @@
 ---
 title: "Bathroom Exhaust Fan"
 date: 2019-12-23T15:55:44+06:00
-type: portfolio
-image: "images/projects/exhaust-fan-01.jpg"
+type: past-repair
+image: "images/past-repairs/exhaust-fan-01.jpg"
 category: ["Exhaust Fan"]
-project_images: ["images/projects/exhaust-fan-01.jpg"]
+project_images: ["images/past-repairs/exhaust-fan-01.jpg"]
 ---
 
 This fan didn't even turn it was so filthy.

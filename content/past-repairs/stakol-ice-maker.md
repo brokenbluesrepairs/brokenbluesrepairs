@@ -1,10 +1,10 @@
 ---
 title: "Stakol Ice Maker EP22769"
 date: 2019-12-23T15:55:44+06:00
-type: portfolio
-image: "images/projects/stakol-ice-maker-01.jpg"
+type: past-repair
+image: "images/past-repairs/stakol-ice-maker-01.jpg"
 category: ["Ice Maker"]
-project_images: ["images/projects/stakol-ice-maker-01.jpg"]
+project_images: ["images/past-repairs/stakol-ice-maker-01.jpg"]
 ---
 
 Persistence was key on this one.

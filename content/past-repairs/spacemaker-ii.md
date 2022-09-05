@@ -1,10 +1,10 @@
 ---
 title: "GE Profile Spacemaker II Sensor"
 date: 2019-12-23T20:56:42+06:00
-type: portfolio
-image: "images/projects/spacemaker-01.jpg"
+type: past-repair
+image: "images/past-repairs/spacemaker-01.jpg"
 category: ["MICROWAVE"]
-project_images: ["images/projects/spacemaker-01.jpg", "images/projects/spacemaker-02.jpg", "images/projects/spacemaker-03.jpg", "images/projects/spacemaker-04.jpg"]
+project_images: ["images/past-repairs/spacemaker-01.jpg", "images/past-repairs/spacemaker-02.jpg", "images/past-repairs/spacemaker-03.jpg", "images/past-repairs/spacemaker-04.jpg"]
 ---
 
 I found this [GE Profile Spacemaker II Sensor](https://www.geappliances.com/appliance/GE-Profile-Spacemaker-II-Microwave-Oven-JEM31SF) microwave near a dumpster and it needed some TLC.
@@ -23,4 +23,4 @@ I found this [GE Profile Spacemaker II Sensor](https://www.geappliances.com/appl
 - I purchased a new cord from [Elliot Electronic Surplus](https://elliottelectronicsurplus.com/) on 23rd & Tyndall and crimped new terminals on, attached them, and tested the microwave. All was dandy :)
 
 **Testing**:
-I tested heating food with the microwave.
+- I tested heating food with the microwave.

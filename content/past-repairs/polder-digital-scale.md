@@ -1,10 +1,10 @@
 ---
 title: "Polder Digital Scale"
 date: 2019-12-23T15:55:44+06:00
-type: portfolio
-image: "images/projects/polder-digital-scale-01.png"
+type: past-repair
+image: "images/past-repairs/polder-digital-scale-01.png"
 category: ["Kitchen Scale"]
-project_images: ["images/projects/polder-digital-scale-01.png"]
+project_images: ["images/past-repairs/polder-digital-scale-01.png"]
 ---
 
 This was a case of grimy battery contacts.

@@ -1,10 +1,10 @@
 ---
 title: "1938 Singer Sewing Machine Model 201"
 date: 2019-12-23T15:55:44+06:00
-type: portfolio
-image: "images/projects/singer-sewing-201-01.jpg"
+type: past-repair
+image: "images/past-repairs/singer-sewing-201-01.jpg"
 category: ["SEWING MACHINE"]
-project_images: ["images/projects/singer-sewing-201-01.jpg"]
+project_images: ["images/past-repairs/singer-sewing-201-01.jpg"]
 ---
 
 What a find this was!

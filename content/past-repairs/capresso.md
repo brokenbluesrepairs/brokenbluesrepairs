@@ -1,10 +1,10 @@
 ---
 title: "Capresso 4-Cup Espresso & Cappuccino Maker"
 date: 2019-12-23T15:44:46+06:00
-type: portfolio
-image: "images/projects/capresso-01.jpg"
+type: past-repair
+image: "images/past-repairs/capresso-01.jpg"
 category: ["COFFEE MAKER"]
-project_images: ["images/projects/capresso-01.jpg", "images/projects/capresso-02.jpg", "images/projects/capresso-03.jpg", "images/projects/capresso-04.jpg"]
+project_images: ["images/past-repairs/capresso-01.jpg", "images/past-repairs/capresso-02.jpg", "images/past-repairs/capresso-03.jpg", "images/past-repairs/capresso-04.jpg"]
 ---
 
 This [Capresso 303](https://www.capresso.com/espresso-machines/4-cup-espresso-cappuccino-machine.html) required creativity. Someone brought this into the Tucson Repair Cafe.

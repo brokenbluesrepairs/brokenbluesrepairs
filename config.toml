@@ -16,17 +16,13 @@ summarylength = 25
     url     = "how-it-works"
     weight  = 2
   [[menu.nav]]
-    name    = "Pricing"
-    url     = "blog"
-    weight  = 3
-  [[menu.nav]]
     name    = "Past Repairs"
-    url     = "portfolio"
-    weight  = 4
+    url     = "past-repairs"
+    weight  = 3
   [[menu.nav]]
     name    = "Contact"
     url     = "contact"
-    weight  = 5
+    weight  = 4
 
 # Site Params
 [params]
@@ -82,7 +78,7 @@ summarylength = 25
     secondary_button      = "Connect With Us"
     secondary_button_url  = "contact"
 
-  [params.portfolio]
+  [params.past_repairs]
     enable    = true
     title     = "MY RECENT REPAIRS"
     subtitle  = "Helping people toss less, spend less, and learn more."
@@ -94,14 +90,14 @@ summarylength = 25
     primary_button      = "Submit Query"
     primary_button_url  = "contact"
     secondary_button    = "Not Convinced"
-    secondary_button_url = "portfolio"
+    secondary_button_url = "past-repairs"
 
   [params.footer]
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Contact Info"
-      address = "713 Elmwood St.<br>Tucson, AZ 85755"
-      phone   = "213-204-0067"
+      address = "Tucson, AZ 85750"
+      phone   = "+1 520-369-2141"
       email   = "info@brokenbluesrepairs.com"
       # Footer Sitemap
       [params.footer.sitemap]
@@ -110,11 +106,11 @@ summarylength = 25
           name = "About"
           url  = "about"
         [[params.footer.sitemap.link]]
-          name = "Repairs"
-          url  = "repairs"
+          name = "How It Works"
+          url  = "how-it-works"
         [[params.footer.sitemap.link]]
-          name = "Blog"
-          url  = "blog"
+          name = "Past Repairs"
+          url  = "past-repairs"
         [[params.footer.sitemap.link]]
           name = "Contact"
           url  = "contact"

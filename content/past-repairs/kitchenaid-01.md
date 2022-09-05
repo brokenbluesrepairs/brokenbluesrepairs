@@ -1,10 +1,10 @@
 ---
 title: "KitchenAid Mixer"
 date: 2019-12-23T15:58:10+06:00
-type: portfolio
-image: "images/projects/kitchenaid-linda-01.jpg"
+type: past-repair
+image: "images/past-repairs/kitchenaid-linda-01.jpg"
 category: ["Food Mixer"]
-project_images: ["images/projects/kitchenaid-linda-01.jpg", "images/projects/kitchenaid-linda-02.jpg", "images/projects/kitchenaid-linda-03.jpg", "images/projects/kitchenaid-linda-04.jpg"]
+project_images: ["images/past-repairs/kitchenaid-linda-01.jpg", "images/past-repairs/kitchenaid-linda-02.jpg", "images/past-repairs/kitchenaid-linda-03.jpg", "images/past-repairs/kitchenaid-linda-04.jpg"]
 ---
 
 All it takes is some grime on the contacts.

@@ -1,10 +1,10 @@
 ---
 title: "Singer Sewing Machine 7442"
 date: 2019-12-23T15:55:44+06:00
-type: portfolio
-image: "images/projects/singer-sewing-7442-01.jpg"
+type: past-repair
+image: "images/past-repairs/singer-sewing-7442-01.jpg"
 category: ["Sewing Machine"]
-project_images: ["images/projects/singer-sewing-7442-01.jpg", "images/projects/singer-sewing-7442-02.jpg", "images/projects/singer-sewing-7442-03.jpg", "images/projects/singer-sewing-7442-04.jpg", "images/projects/singer-sewing-7442-05.jpg", "images/projects/singer-sewing-7442-06.jpg", "images/projects/singer-sewing-7442-07.jpg", "images/projects/singer-sewing-7442-08.jpg", "images/projects/singer-sewing-7442-09.jpg"]
+project_images: ["images/past-repairs/singer-sewing-7442-01.jpg", "images/past-repairs/singer-sewing-7442-02.jpg", "images/past-repairs/singer-sewing-7442-03.jpg", "images/past-repairs/singer-sewing-7442-04.jpg", "images/past-repairs/singer-sewing-7442-05.jpg", "images/past-repairs/singer-sewing-7442-06.jpg", "images/past-repairs/singer-sewing-7442-07.jpg", "images/past-repairs/singer-sewing-7442-08.jpg", "images/past-repairs/singer-sewing-7442-09.jpg"]
 ---
 
 Found this gem at the [Family Bargain Thrift Shop](https://kovrigcarina.wixsite.com/familybargain) on Grant & 7th.
