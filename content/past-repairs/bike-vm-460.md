@@ -1,7 +1,7 @@
 ---
 title: "Domyos VM 460"
-date: 2019-12-23T15:55:44+06:00
-type: past-repair
+date: 2022-06-14T15:55:44+06:00
+type: past-repairs
 image: "images/past-repairs/bike-vm-460-01.jpg"
 category: ["Stationary Bike"]
 project_images: ["images/past-repairs/bike-vm-460-01.jpg", "images/past-repairs/bike-vm-460-02.jpg", "images/past-repairs/bike-vm-460-03.jpg", "images/past-repairs/bike-vm-460-04.jpg", "images/past-repairs/bike-vm-460-05.jpg", "images/past-repairs/bike-vm-460-06.jpg"]

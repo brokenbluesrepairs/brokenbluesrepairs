@@ -14,14 +14,17 @@ expertise_sectors: [
 	"Robots"]
 business_title: "Business Details"
 business_details: [
-	"Static Website using Hugo.io and Github Pages",
-	"Business Licenses: ",
-	"Business Insurance: "]
+	"Limited Liability Company owned by me",
+	"I repair at your home, take items home to repair them, or find me at local markets",
+	"This website is static and made with Hugo.io (roxo theme), hosted via Github Pages",
+	"Business Licenses: Arizona Transaction Privilege Tax License",
+	"Business Insurance: General Liability, Commercial Property, Business Income, Professional Liability"]
 me_title: "About Me"
 me_details: [
 	"Education in mechanical engineering, robotics, linguistics",
 	"Volunteer Naturalist at Sabino Canyon",
 	"Volunteer repairer at Tucson Repair Cafe",
+	"Speak English, French, Mandarin, Japanese, some Spanish, and always happy to practice others",
 	"Trail run, cycle, play basketball, soccer, and more",
 	"Love the blues and play harmonica and guitar",
 	"Love helping and empowering people"

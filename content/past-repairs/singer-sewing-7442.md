@@ -1,7 +1,7 @@
 ---
 title: "Singer Sewing Machine 7442"
-date: 2019-12-23T15:55:44+06:00
-type: past-repair
+date: 2022-03-23T15:55:44+06:00
+type: past-repairs
 image: "images/past-repairs/singer-sewing-7442-01.jpg"
 category: ["Sewing Machine"]
 project_images: ["images/past-repairs/singer-sewing-7442-01.jpg", "images/past-repairs/singer-sewing-7442-02.jpg", "images/past-repairs/singer-sewing-7442-03.jpg", "images/past-repairs/singer-sewing-7442-04.jpg", "images/past-repairs/singer-sewing-7442-05.jpg", "images/past-repairs/singer-sewing-7442-06.jpg", "images/past-repairs/singer-sewing-7442-07.jpg", "images/past-repairs/singer-sewing-7442-08.jpg", "images/past-repairs/singer-sewing-7442-09.jpg"]

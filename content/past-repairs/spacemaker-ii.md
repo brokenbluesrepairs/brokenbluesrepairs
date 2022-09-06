@@ -1,7 +1,7 @@
 ---
 title: "GE Profile Spacemaker II Sensor"
-date: 2019-12-23T20:56:42+06:00
-type: past-repair
+date: 2022-05-02T20:56:42+06:00
+type: past-repairs
 image: "images/past-repairs/spacemaker-01.jpg"
 category: ["MICROWAVE"]
 project_images: ["images/past-repairs/spacemaker-01.jpg", "images/past-repairs/spacemaker-02.jpg", "images/past-repairs/spacemaker-03.jpg", "images/past-repairs/spacemaker-04.jpg"]

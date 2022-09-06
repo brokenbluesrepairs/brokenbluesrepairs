@@ -1,7 +1,7 @@
 ---
 title: "Bathroom Exhaust Fan"
-date: 2019-12-23T15:55:44+06:00
-type: past-repair
+date: 2022-02-23T15:55:44+06:00
+type: past-repairs
 image: "images/past-repairs/exhaust-fan-01.jpg"
 category: ["Exhaust Fan"]
 project_images: ["images/past-repairs/exhaust-fan-01.jpg"]

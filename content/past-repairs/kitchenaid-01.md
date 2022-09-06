@@ -1,7 +1,7 @@
 ---
 title: "KitchenAid Mixer"
-date: 2019-12-23T15:58:10+06:00
-type: past-repair
+date: 2021-11-23T15:58:10+06:00
+type: past-repairs
 image: "images/past-repairs/kitchenaid-linda-01.jpg"
 category: ["Food Mixer"]
 project_images: ["images/past-repairs/kitchenaid-linda-01.jpg", "images/past-repairs/kitchenaid-linda-02.jpg", "images/past-repairs/kitchenaid-linda-03.jpg", "images/past-repairs/kitchenaid-linda-04.jpg"]

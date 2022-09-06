@@ -1,7 +1,7 @@
 ---
 title: "5-Disc CD Changer"
-date: 2019-12-23T15:55:44+06:00
-type: past-repair
+date: 2022-01-23T15:55:44+06:00
+type: past-repairs
 image: "images/past-repairs/5-disc-changer-01.jpg"
 category: ["CD PLAYER"]
 project_images: ["images/past-repairs/5-disc-changer-01.jpg", "images/past-repairs/5-disc-changer-02.jpg", "images/past-repairs/5-disc-changer-03.jpg", "images/past-repairs/5-disc-changer-04.jpg"]

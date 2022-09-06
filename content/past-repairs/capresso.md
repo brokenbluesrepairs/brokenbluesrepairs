@@ -1,7 +1,7 @@
 ---
 title: "Capresso 4-Cup Espresso & Cappuccino Maker"
-date: 2019-12-23T15:44:46+06:00
-type: past-repair
+date: 2022-04-03T15:44:46+06:00
+type: past-repairs
 image: "images/past-repairs/capresso-01.jpg"
 category: ["COFFEE MAKER"]
 project_images: ["images/past-repairs/capresso-01.jpg", "images/past-repairs/capresso-02.jpg", "images/past-repairs/capresso-03.jpg", "images/past-repairs/capresso-04.jpg"]

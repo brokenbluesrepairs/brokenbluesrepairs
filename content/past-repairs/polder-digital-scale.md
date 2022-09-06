@@ -1,7 +1,7 @@
 ---
 title: "Polder Digital Scale"
-date: 2019-12-23T15:55:44+06:00
-type: past-repair
+date: 2021-12-01T15:55:44+06:00
+type: past-repairs
 image: "images/past-repairs/polder-digital-scale-01.png"
 category: ["Kitchen Scale"]
 project_images: ["images/past-repairs/polder-digital-scale-01.png"]

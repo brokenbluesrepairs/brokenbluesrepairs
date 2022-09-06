@@ -1,7 +1,7 @@
 ---
 title: "Stakol Ice Maker EP22769"
-date: 2019-12-23T15:55:44+06:00
-type: past-repair
+date: 2022-05-14T15:55:44+06:00
+type: past-repairs
 image: "images/past-repairs/stakol-ice-maker-01.jpg"
 category: ["Ice Maker"]
 project_images: ["images/past-repairs/stakol-ice-maker-01.jpg"]

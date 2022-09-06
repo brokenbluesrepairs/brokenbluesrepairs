@@ -1,7 +1,7 @@
 ---
 title: "Thomas TPC-101 Radio"
-date: 2019-12-23T15:55:44+06:00
-type: past-repair
+date: 2022-04-01T15:55:44+06:00
+type: past-repairs
 image: "images/past-repairs/radio-thomas-tpc-101-01.png"
 category: ["Radio"]
 project_images: ["images/past-repairs/radio-thomas-tpc-101-01.png"]
