@@ -127,13 +127,13 @@ summarylength = 25
         [[params.footer.social.link]]
           name = "LinkedIn"
           url  = "https://www.linkedin.com/in/peter-vieira-57667624"
-        [[params.footer.social.link]]
-          name = "Facebook"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Instagram"
-          url  = "#"
+#        [[params.footer.social.link]]
+#          name = "Facebook"
+#          url  = "#"
+#        [[params.footer.social.link]]
+#          name = "Instagram"
+#          url  = "#"
       # Footer Service
       [params.footer.service]
-        title       = "We help you:"
+        title       = "I help you:"
         description = "get rid of those broken blues"
