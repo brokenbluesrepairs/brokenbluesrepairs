@@ -29,7 +29,7 @@
 [context.production]
   publish = "output/"
   command = "make publish"
-  environment = { NODE_VERSION = "14.15.3", HUGO_VERSION = "v0.101.0+extended" }
+  environment = { NODE_VERSION = "14.15.3", HUGO_VERSION = "v0.104.2" }
 
 # Deploy Preview context: all deploys generated from
 # a pull/merge request will inherit these settings.
