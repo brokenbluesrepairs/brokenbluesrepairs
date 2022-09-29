@@ -1,4 +1,4 @@
-baseURL = 'https://brokenbluesrepairs.com/'
+baseURL = 'brokenbluesrepairs.github.io/'
 languageCode = 'en-us'
 title = 'Broken Blues Repairs'
 theme = 'roxo'
