@@ -1,4 +1,4 @@
-baseURL = 'brokenbluesrepairs.com'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Broken Blues Repairs'
 theme = 'roxo'
